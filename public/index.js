@@ -1,6 +1,5 @@
 let transactions = [];
 let myChart;
-const dbVersion = 1;  //version number of indexedDB db for offline transactions
 
 fetch("/api/transaction")
   .then(response => {
