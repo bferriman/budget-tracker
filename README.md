@@ -8,7 +8,7 @@ This progressive web app allows the user to enter and track financial transactio
 
 ## Screenshot
 
-![](reference/screenshot.png)
+<img src="reference/screenshot.PNG" width="250">
 
 ## Technologies Used
 
